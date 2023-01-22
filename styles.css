@@ -69,11 +69,11 @@ body {
     font-size: 1rem;
   }
 
-  .product-info h2 {
+  .product-info h1 {
     font-size: 1rem;
   }
 
-  .product-info h1 {
+  .product-info h2 {
     font-size: 1.5rem;
   }
 
@@ -93,7 +93,7 @@ body {
 }
 /* text fonts and colors */
 
-h2 {
+h1 {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   letter-spacing: 0.3em;
@@ -101,7 +101,7 @@ h2 {
   font-size: 1rem;
 }
 
-h1 {
+h2 {
   font-family: "Fraunces", sans-serif;
   font-weight: 700;
   color: hsl(212, 21%, 14%);
